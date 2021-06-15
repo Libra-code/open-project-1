@@ -1,0 +1,2 @@
+D:\Open project\open-project-1-main\UOP1_Project\obj\Debug\UOP1.StateMachine.Editor.csprojAssemblyReference.cache
+D:\Open project\open-project-1-main\UOP1_Project\obj\Debug\UOP1.StateMachine.Editor.csproj.CoreCompileInputs.cache
