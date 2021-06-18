@@ -1,4 +1,4 @@
-# Unity Open Project #1: Chop Chop
+# Unity Open Project #1: Chop Chop  
 
 ![Unity Open Projects](/Docs/ReadmeImages/ApproachingTheIsland_Header.jpg)
 
@@ -33,3 +33,7 @@ Just want to try the game out? Head to the [release page](https://github.com/Uni
 
 > **We are looking forward to see what you will create** ❤  
 > *- the Unity Creator Advocacy team*
+
+
+##
+Contribute by Libra-Code
