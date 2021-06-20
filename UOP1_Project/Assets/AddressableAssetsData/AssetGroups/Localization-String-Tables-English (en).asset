@@ -27,11 +27,6 @@ MonoBehaviour:
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-en
-  - m_GUID: 1f022fda08ffa2d4db4929074287716e
-    m_Address: Questline Dialogue_en
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-en
   - m_GUID: 8d4813fc8788c4949b7fda8395a3840b
     m_Address: Critters_en
     m_ReadOnly: 1
