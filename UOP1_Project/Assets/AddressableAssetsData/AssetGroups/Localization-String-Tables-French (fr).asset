@@ -22,11 +22,6 @@ MonoBehaviour:
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-fr
-  - m_GUID: 5a99fcc266fdb48608555d31b49c084b
-    m_Address: Actors_fr
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-fr
   - m_GUID: 5b2ca215bea5b4d32ba9891298b17741
     m_Address: Scene Names_fr
     m_ReadOnly: 1
